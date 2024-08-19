@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: liangzhy2022@shanghaitech.com
 - :earth_asia: Where is my blog: [Joyce's Blog]()
-- 🏠 Organization: [IMMULab](https://github.com/IMMULab) and [BrickBar](https://github.com/BrickBar1024)
+- 🏠 Organization: [IMMULab](https://www.immuqian.com/) and [BrickBar](https://github.com/BrickBar1024)
 - 🌱 Using and Learning Languages: [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)]()  [![](https://img.shields.io/badge/-Shell-007396?style=flat-square&logo=Shell&logoColor=ffffff)]()  [![](https://img.shields.io/badge/-Markdown-007396?style=flat-square&logo=Markdown&logoColor=ffffff)]() 
 - 🧰 Using IDEs: [![](https://img.shields.io/badge/-PyCharm-007396?style=flat-square&logo=PyCharm&logoColor=ffffff)]() [![](https://img.shields.io/badge/-VS%20Code-007396?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)]()
 
